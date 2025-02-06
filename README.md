@@ -6,3 +6,6 @@ State management with Context API
 Data persistence with localStorage
 Add, edit, delete and toggle task completion
 Clean and responsive user interface
+
+![Screenshot 2025-02-06 165725](https://github.com/user-attachments/assets/8ef0b917-503e-4f07-bc24-eda1ea75352f)
+
